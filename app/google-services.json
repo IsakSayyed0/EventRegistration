@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "45932777931",
+    "firebase_url": "https://eventregistration-5cbfa.firebaseio.com",
+    "project_id": "eventregistration-5cbfa",
+    "storage_bucket": "eventregistration-5cbfa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45932777931:android:18f8686b6fe4dca5",
+        "android_client_info": {
+          "package_name": "com.example.eventregistration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "45932777931-85eto09ibtqdg3oum50iini1l0rp1sn6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.eventregistration",
+            "certificate_hash": "e8fe3d7929266056c161ebea549ea339f0db3dcd"
+          }
+        },
+        {
+          "client_id": "45932777931-vmt8jlpptejijhmf9i7cdhi9espi299e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEjpzP4Ix7xgZOwGliMNMrfUGLhr7lJ74"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "45932777931-vmt8jlpptejijhmf9i7cdhi9espi299e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
